@@ -10,7 +10,7 @@ To contribute, please first fork this repository. Once you've made your changes 
 
 ## Guidelines for Adding a New AI Dev Tool
 
-When submitting a new AI development tool, please follow the [Pull Request Template](https://github.com/sidhq/yc-ai-tools/blob/main/.github/PULL_REQUEST_TEMPLATE.md) provided. Include all relevant information such as the name of your tool or company, a URL, a brief description, and optionally links to a demo and/or docs.
+When submitting a new AI development tool, please follow the [Pull Request Template](https://github.com/sidhq/yc-ai-tools/blob/main/.github/PULL_REQUEST_TEMPLATE.md) provided. Include all relevant information such as the name of your tool or company, a URL, a brief description, and optionally links to a demo and/or docs. For any new additions, please add your tool to the bottom of the appropriate category. The order of the tools is determined on a first-come, first-served basis.
 
 ## Requesting Changes to the List Structure
 
