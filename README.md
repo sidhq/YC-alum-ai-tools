@@ -3,9 +3,23 @@ Disclaimer: This repository is maintained by the founders of SID Tech Inc. and o
 
 This repository and SID Tech Inc. are not affiliated with, sponsored or endorsed by Y Combinator.
 
-## "Inference/App" Orchestration
+## Analytics & Monitoring
+* [Helicone](https://helicone.ai)
+
+
+## Data Management & Integration
+
+
+## Front-End & UI Design
+
+
+## Infrastructure & Security
 * [Hamilton](https://github.com/dagWorks-Inc/hamilton)
 
-## Monitoring / Data Collection
-* [Helicone](https://helicone.ai)
+
+## Model Performance & Evaluation
+
+
+
+
 
