@@ -8,13 +8,12 @@ This repository and SID Tech Inc. are not affiliated with, sponsored or endorsed
 
 
 ## Data Management & Integration
-
+* [Hamilton](https://github.com/dagWorks-Inc/hamilton)
 
 ## Front-End & UI Design
 
 
 ## Infrastructure & Security
-* [Hamilton](https://github.com/dagWorks-Inc/hamilton)
 
 
 ## Model Performance & Evaluation
