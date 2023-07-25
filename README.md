@@ -13,7 +13,7 @@ This repository and SID Tech Inc. are not affiliated with, sponsored or endorsed
 * [Trex](https://github.com/automorphic-ai/trex): Intelligently transform unstructured data to structured JSON, SQL, or other context-free grammar output.
 * [FiddleCube](https://fiddlecube.ai): Generate high-quality datasets for fine-tuning LLMs in minutes.
 * [Frizz](https://www.usefriz.com/): Co-Pilot for your Social Media.
-* [SID.ai](https://www.sid.ai): Makes it easy for developers to connect LLM apps to their customers' data. [Demo](https://demo.sid.ai/)/[Docs](https://docs.sid.ai/)
+* [SID.ai](https://www.sid.ai): Makes it easy for developers to connect LLM apps to their customers' data. ([Demo](https://demo.sid.ai/) / [Docs](https://docs.sid.ai/))
 
 ## Front-End & UI Design
 * [Tempo Labs](https://www.tempolabs.ai/): AI design & prototyping tool which generates and edits react code directly in your codebase.
