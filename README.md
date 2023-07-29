@@ -6,7 +6,6 @@ This repository and SID Tech Inc. are not affiliated with, sponsored or endorsed
 ## Analytics & Monitoring
 * [Helicone](https://helicone.ai): The easiest way to capture data from your LLMs (Open Source).
 * [Langfuse](https://langfuse.com): Open-source analytics for LLM applications.
-* [Parea](https://www.parea.ai): Improve and monitor the performance of your LLM apps through rigorous testing and version control.
 
 ## Data Management & Integration
 * [Hamilton](https://github.com/dagworks-inc/hamilton/): Open source micro-framework for describing dataflows. Companies like IBM, Adobe and Stitch Fix use Hamilton to model data & feature engineering pipelines, machine learning pipelines, through to prompt engineering and LLM application workflows.
@@ -24,6 +23,7 @@ This repository and SID Tech Inc. are not affiliated with, sponsored or endorsed
 
 
 ## Model Performance & Evaluation
+* [Parea](https://www.parea.ai): Debug, evaluate and monitor the performance of your LLM apps through testing and version control.
 * [PromptTools](https://hegel-ai.com): Open source tools for evaluation and experimentation with prompts, models, and vector databases.
 * [Queryvary](https://queryvary.com): Test suite for LLMs.
 * [UpTrain](https://github.com/uptrain-ai/uptrain): Open-source toolkit to evaluate and monitor LLM applications on aspects like hallucinations, bias, tonality, correctness, etc.
