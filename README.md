@@ -8,7 +8,7 @@ This repository and SID Tech Inc. are not affiliated with, sponsored or endorsed
 * [Langfuse](https://langfuse.com): Open-source analytics for LLM applications.
 
 ## Data Management & Integration
-* [Hamilton](https://github.com/dagworks-inc/hamilton/): Open source micro-framework for describing dataflows. Companies like IBM, Adobe and Stitch Fix use Hamilton to model data & feature engineering pipelines, machine learning pipelines, through to prompt engineering and LLM application workflows.
+* [Hamilton](https://github.com/dagworks-inc/hamilton/): Open source micro-orchestration framework for describing dataflows. Companies like IBM, Adobe and Stitch Fix use Hamilton to model data & feature engineering pipelines, machine learning pipelines, through to prompt engineering and LLM application workflows. Runs anywhere python runs. See [examples folder](https://github.com/DAGWorks-Inc/hamilton/tree/main/examples).
 * [Trex](https://github.com/automorphic-ai/trex): Intelligently transform unstructured data to structured JSON, SQL, or other context-free grammar output.
 * [FiddleCube](https://fiddlecube.ai): Generate high-quality datasets for fine-tuning LLMs in minutes.
 * [Frizz](https://www.usefriz.com/): Co-Pilot for your Social Media.
