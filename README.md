@@ -13,6 +13,8 @@ This repository and SID Tech Inc. are not affiliated with, sponsored or endorsed
 * [FiddleCube](https://fiddlecube.ai): Generate high-quality datasets for fine-tuning LLMs in minutes.
 * [Frizz](https://www.usefriz.com/): Co-Pilot for your Social Media.
 * [SID.ai](https://www.sid.ai): Makes it easy for developers to connect LLM apps to their customers' data. ([Demo](https://demo.sid.ai/) / [Docs](https://docs.sid.ai/))
+* [EdgeChains](https://github.com/arakoodev/edgechains): Open Source SDK that models generative AI applications as config management. Built on top of Jsonnet as the orchestration grammar.
+* [Branch AI](https://www.branch-ai.com/): End-to-end tests using LLMs that simulate manual testing.
 
 ## Front-End & UI Design
 * [Tempo Labs](https://www.tempolabs.ai/): AI design & prototyping tool which generates and edits react code directly in your codebase.
