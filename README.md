@@ -22,6 +22,7 @@ This repository and SID Tech Inc. are not affiliated with, sponsored or endorsed
 ## Infrastructure & Security
 * [Anarchy](https://anarchy.ai): LLM infrastructure for developers. You use Anarchy to run open-source models efficiently and augmented with capabilities.
 * [Aegis](https://github.com/automorphic-ai/aegis): Self-hardening firewall for large language models.
+* [Pump](https://www.pump.co/): The fastest way to save 60% on AWS for free. Pump uses AI & group buying to automate cost saving with no engineering effort.
 
 
 ## Model Performance & Evaluation
