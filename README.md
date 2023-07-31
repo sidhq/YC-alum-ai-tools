@@ -11,7 +11,7 @@ This repository and SID Tech Inc. are not affiliated with, sponsored or endorsed
 * [Trex](https://github.com/automorphic-ai/trex): Intelligently transform unstructured data to structured JSON, SQL, or other context-free grammar output.
 * [SID.ai](https://www.sid.ai): Makes it easy for developers to connect LLM apps to their customers' data. ([Demo](https://demo.sid.ai/) / [Docs](https://docs.sid.ai/))
 * [LanceDB](https://lancedb.com): Open-source, developer-friendly vector database for multi-modal AI. Reduce unstructure storage costs by 80% and get 1000x faster performance than parquet for AI. ([Demo](https://www.youtube.com/watch?v=6SweXJhboTA) / [Docs](https://lancedb.github.io/lancedb/))
-* [Supabase](https://supabase.com/): Supabase Vector is the open source Vector Toolkit for Postgres. Use the Supabase client libraries to store, index, and query your vector embeddings at scale.([Demo](https://supabase.com/docs/guides/ai/quickstarts/hello-world / [Docs](https://supabase.com/vector))
+* [Supabase](https://supabase.com/): Supabase Vector is the open source Vector Toolkit for Postgres. Use the Supabase client libraries to store, index, and query your vector embeddings at scale.([Demo](https://supabase.com/docs/guides/ai/quickstarts/hello-world) / [Docs](https://supabase.com/vector))
 * [Sweep AI](https://sweep.dev/): AI-powered junior dev that turns bug reports & feature requests into code changes. Developers report bugs like "the payment link on my landing page is broken" and Sweep writes the code to fix it. ([Demo](https://youtu.be/2cB6nSpNuoo) / [Docs](https://docs.sweep.dev/))
 * [Outerbase](https://outerbase.com/): Outerbase is the interface for your database.
 
