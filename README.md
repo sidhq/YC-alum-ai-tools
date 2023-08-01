@@ -2,6 +2,17 @@
 **Disclaimer**: This repository is maintained by the founders of SID Tech Inc. and other volunteers of the Y Combinator Community.
 
 This repository and SID Tech Inc. are not affiliated with, sponsored or endorsed by Y Combinator.
+***
+**Curated collection of AI dev tools from YC companies, aiming to serve as a reliable starting point for LLM/ML developers.**
+
+_Are you a YC founder and your AI dev tool is missing? [Click here.](CONTRIBUTING.md)_
+
+## Contents
+- [Analytics & Monitoring](#analytics--monitoring)
+- [Data Management & Integration](#data-management--integration)
+- [Front-End & UI Design](#front-end--ui-design)
+- [Infrastructure & Security](#infrastructure--security)
+- [Model Performance & Evaluation](#model-performance--evaluation)
 
 ## Analytics & Monitoring
 * [Helicone](https://helicone.ai): The easiest way to capture data from your LLMs (Open Source).
