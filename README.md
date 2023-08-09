@@ -32,9 +32,10 @@ _Are you a YC founder and your AI dev tool is missing? [Click here.](CONTRIBUTIN
 * [Humanloop](https://humanloop.com): Humanloop is like datadog for LLMs. We give you the tools you need to evaluate LLM apps and then take action to improve them.
 * [BerriAI](https://github.com/BerriAI/litellm): A simple & light package to call OpenAI, Azure, Cohere, Anthropic API Endpoints
 * [UpTrain](https://github.com/uptrain-ai/uptrain): Open-source toolkit to evaluate and monitor LLM applications on aspects like hallucinations, bias, tonality, correctness, etc.
-* [Axilla](https://axilla.io):Open-source AI framework for TypeScript that covers the whole lifecycle: document ingestion & retrieval, continuous evaluation, serving, monitoring. ([Docs](https://github.com/axilla-io/ax))
+* [Axilla](https://axilla.io):Open-source AI framework for TypeScript that covers the whole lifecycle: document ingestion & retrieval, continuous evaluation, serving, monitoring. ([Docs](https://github.com/axilla-io/ax)).
 * [Traceloop](https://traceloop.com): Deploy with confidence. Automatically evaluate and monitor changes to models, prompts, and LLM architectures.
-* [Structured](https://www.structuredlabs.io/): Structured (YC S23) is an LLM tool transforming complex system log data into easily understandable insights. ([Demo](https://www.youtube.com/watch?v=aEAOH4tGHyE))
+* [Structured](https://www.structuredlabs.io/): Structured (YC S23) is an LLM tool transforming complex system log data into easily understandable insights. ([Demo](https://www.youtube.com/watch?v=aEAOH4tGHyE)).
+* [DAGWorks](https://www.dagworks.io/): DAGWorks is the observability and monitoring solution for [Hamilton](https://github.com/DAGWorks-Inc/hamilton). Get lineage, a catalog, and obsevability on top of Hamilton with a one-line code change.
 
 ## Data Integrations & Retrieval
 * [Trex](https://github.com/automorphic-ai/trex): Intelligently transform unstructured data to structured JSON, SQL, or other context-free grammar output. ([Demo](https://uptrain-assets.s3.ap-south-1.amazonaws.com/videos/llm_experimentation_demo.mp4) / [Docs](https://docs.uptrain.ai/getting-started/introduction))
@@ -102,6 +103,7 @@ _Are you a YC founder and your AI dev tool is missing? [Click here.](CONTRIBUTIN
 ## Orchestration
 * [EdgeChains](https://github.com/arakoodev/edgechains): Open Source SDK that models generative AI applications as config management. Built on top of Jsonnet as the orchestration grammar.
 * [Sematic](https://sematic.dev/): Sematic is the open-source orchestrator loved by ML teams. It enables end-to-end pipelines to reduce model turnaround time by 80%. ([Demo](https://www.youtube.com/watch?v=pAT599sxGos) / [Docs](https://docs.sematic.dev/))
+* [Hamilton](https://github.com/dagworks-inc/hamilton/): Open source micro-orchestration framework for describing dataflows. I.e. you can use it instead of LangChain. Companies like IBM, Adobe and Stitch Fix use Hamilton to model data & feature engineering pipelines, machine learning pipelines, through to prompt engineering and LLM application workflows. Runs anywhere python runs. See [examples folder](https://github.com/DAGWorks-Inc/hamilton/tree/main/examples).
 
 ## Dev Tools
 * [Theneo](https://www.theneo.io): Next-Gen API Documentation with AI Brilliance. Generate Stripe-like API docs in just a few seconds.([Demo](https://www.theneo.io/) / [Docs](https://app.theneo.io/theneo/quickstart/))
