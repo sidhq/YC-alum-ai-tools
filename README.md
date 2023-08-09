@@ -58,7 +58,6 @@ _Are you a YC founder and your AI dev tool is missing? [Click here.](CONTRIBUTIN
 * [FiddleCube](https://fiddlecube.ai): Generate high-quality datasets for fine-tuning LLMs in minutes.
 * [Query Vary](https://queryvary.com): Test suite for LLMs. ([Demo](https://calendar.app.google/6oxEvZA2k4kK6dBa8) / [Docs](https://docs.queryvary.com/))
 * [pyq AI](https://www.pyqai.com/): Pyq makes it easy for developers to train and deploy task-specific AI models in either their cloud or ours. We do this by providing easy-to-use software that takes in their datasets and task as inputs, and outputs a custom AI model.
-* []
 
 ## End-to-End Frameworks
 * [Branch AI](https://www.branch-ai.com/): End-to-end tests using LLMs that simulate manual testing.
