@@ -106,5 +106,3 @@ _Are you a YC founder and your AI dev tool is missing? [Click here.](CONTRIBUTIN
 ## Dev Tools
 * [Theneo](https://www.theneo.io): Next-Gen API Documentation with AI Brilliance. Generate Stripe-like API docs in just a few seconds.([Demo](https://www.theneo.io/) / [Docs](https://app.theneo.io/theneo/quickstart/))
 * [Sweep AI](https://sweep.dev/): Sweep (YC S23) is an AI-powered junior dev that turns bug reports & feature requests into code changes. Developers report bugs like "the payment link on my landing page is broken" and Sweep writes a code to fix it. ([Demo](https://youtu.be/2cB6nSpNuoo) / [Docs](https://docs.sweep.dev/))
-* [Vellum](https://www.vellum.ai/): Bring LLM-powered features to production with tools for prompt engineering, semantic search, version control, quantitative testing, and performance monitoring.
-* [MagikLabs](https://www.magiklabs.app/): Test, observe, and monitor your LLM apps against production data.
