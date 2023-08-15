@@ -1,8 +1,9 @@
+![Header Image](/img/header.png)
+
 # AI Developer Tools of YC companies
 **Disclaimer**: This repository is maintained by the founders of SID Tech Inc. and other volunteers of the Y Combinator Community. This repository and SID Tech Inc. are not affiliated with, sponsored or endorsed by Y Combinator.
 ***
 
-![Header Image](/img/header.png)
 
 This is a **curated collection** of **AI developer tools** built by **YC companies**. We're aiming to serve as a reliable **starting point** for **LLM/ML developers**.
 
