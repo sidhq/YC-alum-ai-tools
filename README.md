@@ -18,7 +18,7 @@ This is a **curated collection** of **AI developer tools** built by **YC compani
 - 🥁 [Orchestration](#orchestration)
 - 🔈 [Audio](#audio)
 - 🔭 [Analytics & Monitoring](#analytics--monitoring)
-- 🤖 [Making Development Easier](#making--development--easier)
+- 🤖 [Making Development Easier](#making-development-easier)
 
 ## Vector DB & Embeddings
 * [Supabase](https://supabase.com/) Vector: Open-source Vector Toolkit for Postgres. Use the Supabase client libraries to store, index, and query your vector embeddings at scale. ([Demo](https://supabase.com/vector) / [Docs](https://supabase.com/docs/guides/ai/quickstarts/hello-world))
