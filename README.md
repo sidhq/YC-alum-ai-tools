@@ -1,11 +1,11 @@
+
+# Y Combinator Alum – AI Dev Tool
+
 ![Header Image](/img/header.png)
 
-# AI Developer Tools of YC companies
 **Disclaimer**: This repository is maintained by the founders of SID Tech Inc. and other volunteers of the Y Combinator Community. This repository and SID Tech Inc. are not affiliated with, sponsored or endorsed by Y Combinator.
-***
 
-
-This is a **curated collection** of **AI developer tools** built by **YC companies**. We're aiming to serve as a reliable **starting point** for **LLM/ML developers**.
+This is a **curated collection** of **AI developer tools** built by **YC companies**. <br> We're aiming to serve as a reliable **starting point** for **LLM/ML developers**.
 
 ## Overview
 - 💾 [ Vector DB & Embeddings](#vector-db--embeddings)
@@ -18,12 +18,12 @@ This is a **curated collection** of **AI developer tools** built by **YC compani
 - 🥁 [Orchestration](#orchestration)
 - 🔈 [Audio](#audio)
 - 🔭 [Analytics & Monitoring](#analytics--monitoring)
-- 🤖 [Making Development Easier](#dev-tools)
+- 🤖 [Making Development Easier](#making--development--easier)
 
 ## Vector DB & Embeddings
 * [Supabase](https://supabase.com/) Vector: Open-source Vector Toolkit for Postgres. Use the Supabase client libraries to store, index, and query your vector embeddings at scale. ([Demo](https://supabase.com/vector) / [Docs](https://supabase.com/docs/guides/ai/quickstarts/hello-world))
 * [LanceDB](https://lancedb.com/): Open-source, developer-friendly vector database for multi-modal AI. Reduce unstructured storage costs by 80% and get 1000x faster performance than parquet for AI. ([Demo](https://www.youtube.com/watch?v=6SweXJhboTA) / [Docs](https://lancedb.github.io/lancedb/))
-* [SID.ai](https://www.sid.ai): SID is a fully-hosted retrieval pipeline that makes it easy to connect services like Google Mail, Notion, GDrive, or fully custom data. They take care of keeping information synced and available. In one afternoon, you can connect to any data source you'd like and instantly scale to millions of users. ([Demo](https://demo.sid.ai/) / [Docs](https://docs.sid.ai/)).
+* [SID.ai](https://www.sid.ai): Fully-hosted retrieval pipeline that makes it easy to connect services like Google Mail, Notion, GDrive, or fully custom data. In one afternoon, you can connect to any data source you'd like and instantly scale to millions of users. ([Demo](https://demo.sid.ai/) / [Docs](https://docs.sid.ai/)).
 
 ## Data Integrations & Retrieval
 * [SID.ai](https://www.sid.ai): Connect customers' data from GSuite, Notion, Mail, etc. to your LLM app in one afternoon. Simply add a "Connect" button, then call our API to retrieve context. SID takes care of the embeddings, sync, and hosting. ([Demo](https://demo.sid.ai/) / [Docs](https://docs.sid.ai/))
@@ -33,7 +33,7 @@ This is a **curated collection** of **AI developer tools** built by **YC compani
 
 ## Infrastructure
 * [Anarchy](https://anarchy.ai): LLM infrastructure for developers. Use Anarchy to run open-source models efficiently and augmented with capabilities.
-* [SID.ai](https://www.sid.ai): SID is a fully-hosted retrieval pipeline that makes it easy to connect services like Google Mail, Notion, GDrive, or fully custom data. They take care of keeping information synced and available. In one afternoon, you can connect to any data source you'd like and instantly scale to millions of users. ([Demo](https://demo.sid.ai/) / [Docs](https://docs.sid.ai/))
+* [SID.ai](https://www.sid.ai):  Fully-hosted retrieval pipeline that makes it easy to connect services like Google Mail, Notion, GDrive, or fully custom data. In one afternoon, you can connect to any data source you'd like and instantly scale to millions of users. ([Demo](https://demo.sid.ai/) / [Docs](https://docs.sid.ai/)).
 * [Ivy](https://unify.ai/): Accelerate Your AI With One Line of Code. ([Demo](https://unify.ai/demos) / [Docs](https://unify.ai/docs/ivy/))
 * [Pump](https://www.pump.co/): The fastest way to save 60% on AWS for free. Pump uses AI & group buying to automate cost-saving with no engineering effort.
 * [Cedana](https://www.cedana.ai): Intelligently migrate AI workloads across instances to improve resource utilization, enable job-level SLAs and increase reliability for cost-effective, scalable training and inference. ([Demo](https://www.youtube.com/watch?v=KC4STzSQ_DU) / [Docs](https://cedana.readthedocs.io/en/latest/))
@@ -86,10 +86,12 @@ This is a **curated collection** of **AI developer tools** built by **YC compani
 * [DAGWorks](https://www.dagworks.io/): The observability and monitoring solution for [Hamilton](https://github.com/DAGWorks-Inc/hamilton). Get lineage, a catalog, and observability on top of Hamilton with a one-line code change.
 * [HegalAI](https://github.com/hegelai/prompttools)'s PromptTools: Open-source tools for evaluation and experimentation with prompts, models, and vector databases. ([Demo](https://www.youtube.com/watch?v=cLGRqNI-nJU) / [Docs](https://prompttools.readthedocs.io/en/latest/))
   
-##  Making Development Easier
+## Making Development Easier
 * [Sweep AI](https://sweep.dev/): AI-powered junior dev that turns bug reports & feature requests into code changes. Developers report bugs like "the payment link on my landing page is broken" and Sweep writes a code to fix it. ([Demo](https://youtu.be/2cB6nSpNuoo) / [Docs](https://docs.sweep.dev/))
 * [Continue](http://github.com/continuedev/continue): the open-source autopilot for software development — a VS Code extension that brings the power of ChatGPT to your IDE. ([Demo](https://youtu.be/3Ocrc-WX4iQ) / [Docs](http://continue.dev/docs))
 * [Tempo Labs](https://www.tempolabs.ai/): AI design & prototyping tool which generates and edits react code directly in your codebase.
 * [Theneo](https://www.theneo.io): Next-Gen API Documentation with AI Brilliance. Generate Stripe-like API docs in just a few seconds. ([Demo](https://www.theneo.io/) / [Docs](https://app.theneo.io/theneo/quickstart/))
 
-_Are you a YC founder and your AI dev tool is missing? [Let us know!](mailto:hi@sid.ai) or [contribute here.](CONTRIBUTING.md)_
+***
+
+_Are you a YC founder and your AI dev tool is missing? [Let us know](mailto:hi@sid.ai) or [contribute here.](CONTRIBUTING.md)_
