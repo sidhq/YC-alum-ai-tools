@@ -1,6 +1,6 @@
 # Y Combinator Alum – AI Dev Tool
 
-![Header Image](/img/header.png)
+![Header Image](/img/header_image.png)
 
 **Disclaimer**: This repository is maintained by the founders of SID Tech Inc. and other volunteers of the Y Combinator Community. This repository and SID Tech Inc. are not affiliated with, sponsored or endorsed by Y Combinator.
 
@@ -52,6 +52,7 @@ This is a **curated collection** of **AI developer tools** built by **YC compani
 
 
 ## LLM Serving & Fine-Tuning
+* [OpenAI](https://openai.com): Needs no introduction ([Demo](https://github.com/openai/openai-cookbook) / [Docs](https://platform.openai.com/docs/introduction/overview))
 * [BerriAI](https://github.com/BerriAI/litellm): A simple & light package to call OpenAI, Azure, Cohere, Anthropic API Endpoints.
 * [Anarchy](https://anarchy.ai): LLM infrastructure for developers. Use Anarchy to run open-source models efficiently and augmented with capabilities.
 * [Ivy](https://unify.ai/): Accelerate Your AI With One Line of Code. ([Demo](https://unify.ai/demos) / [Docs](https://unify.ai/docs/ivy/))
@@ -61,6 +62,7 @@ This is a **curated collection** of **AI developer tools** built by **YC compani
 * [FiddleCube](https://fiddlecube.ai): Generate high-quality datasets for fine-tuning LLMs in minutes.
 
 ## Dataset Generation & Handling
+* [Scale](https:/scale.com): Scale has pioneered in the data labeling industry by combining AI-based techniques with human-in-the-loop, delivering labeled data at unprecedented quality, scalability, and efficiency. ([Demo](https://github.com/scaleapi) / [Docs](https://scale.com/docs))
 * [FiddleCube](https://fiddlecube.ai): Generate high-quality datasets for fine-tuning LLMs in minutes.
 * [pyq AI](https://www.pyqai.com/): Easy way for developers to train and deploy task-specific AI models in the cloud. Pyq does so by providing easy-to-use software that takes in your datasets and task as inputs, and outputs a custom AI model.
 * [DAGWorks](https://github.com/dagworks-inc/hamilton/)' Hamilton: Open-source micro-orchestration framework for describing data flows. Companies use it for modeling data and feature engineering pipelines, prompt engineering, and LLM application workflows. ([Demo](https://github.com/DAGWorks-Inc/hamilton/tree/main/examples))
