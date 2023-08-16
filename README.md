@@ -1,4 +1,3 @@
-
 # Y Combinator Alum – AI Dev Tool
 
 ![Header Image](/img/header.png)
