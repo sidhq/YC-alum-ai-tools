@@ -23,7 +23,7 @@ This is a **curated collection** of **AI developer tools** built by **YC compani
 * [Humanloop](https://humanloop.com): Humanloop is like datadog for LLMs. They give you the tools you need to evaluate LLM apps and then take action to improve them.
 * [Helicone](https://helicone.ai): The easiest way to capture data from your LLMs (Open Source).
 * [Langfuse](https://langfuse.com): Open-source analytics for LLM applications. ([Demo](https://langfuse.com/blog/showcase-llm-chatbot) / [Docs](https://langfuse.com/docs))
-* [UpTrain](https://github.com/uptrain-ai/uptrain): Open-source toolkit to evaluate and monitor LLM applications on aspects like hallucinations, bias, tonality, correctness, etc.
+* [UpTrain](https://github.com/uptrain-ai/uptrain): Open-source toolkit to evaluate and monitor LLM applications on aspects like hallucinations, bias, tonality, correctness, etc. ([Demo](https://demo.uptrain.ai/evals_demo/) / [Docs](https://docs.uptrain.ai/getting-started/introduction))
 * [Structured](https://www.structuredlabs.io/): LLM tool transforming complex system log data into easily understandable insights. ([Demo](https://www.youtube.com/watch?v=aEAOH4tGHyE))
 * [Traceloop](https://traceloop.com): Deploy with confidence. Automatically evaluate and monitor changes to models, prompts, and LLM architectures.
 * [BerriAI](https://github.com/BerriAI/litellm): A simple & light package to call OpenAI, Azure, Cohere, and Anthropic API Endpoints.
@@ -67,6 +67,7 @@ This is a **curated collection** of **AI developer tools** built by **YC compani
 * [pyq AI](https://www.pyqai.com/): Easy way for developers to train and deploy task-specific AI models in the cloud. Pyq does so by providing easy-to-use software that takes in your datasets and task as inputs, and outputs a custom AI model.
 * [DAGWorks](https://github.com/dagworks-inc/hamilton/)' Hamilton: Open-source micro-orchestration framework for describing data flows. Companies use it for modeling data and feature engineering pipelines, prompt engineering, and LLM application workflows. ([Demo](https://github.com/DAGWorks-Inc/hamilton/tree/main/examples))
 * [Query Vary](https://queryvary.com/): Test suite for LLMs. ([Demo](https://calendar.app.google/6oxEvZA2k4kK6dBa8) / [Docs](https://docs.queryvary.com/))
+* [UpTrain](https://github.com/uptrain-ai/uptrain): Open-source toolkit to prompt-test LLM applications by evaluating them on aspects like hallucinations, bias, tonality, correctness, etc. ([Demo](https://github.com/uptrain-ai/uptrain#experimentation) / [Docs](https://docs.uptrain.ai/getting-started/introduction))
 
 ## Security
 * [Automorphic](https://github.com/automorphic-ai/aegis)'s Aegis: Self-hardening firewall for large language models.
