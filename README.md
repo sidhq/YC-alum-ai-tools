@@ -30,7 +30,7 @@ This is a **curated collection** of **AI developer tools** built by **YC compani
 * [Parea](https://www.parea.ai): Improve and monitor the performance of your LLM apps through rigorous testing and version control.
 * [Axilla](https://axilla.io): Open-source AI framework for TypeScript that covers the whole lifecycle: document ingestion & retrieval, continuous evaluation, serving, and monitoring. ([Docs](https://github.com/axilla-io/ax))
 * [DAGWorks](https://www.dagworks.io/): The observability and monitoring solution for [Hamilton](https://github.com/DAGWorks-Inc/hamilton). Get lineage, a catalog, and observability on top of Hamilton with a one-line code change.
-* [HegalAI](https://github.com/hegelai/prompttools)'s PromptTools: Open-source tools for evaluation and experimentation with prompts, models, and vector databases. ([Demo](https://www.youtube.com/watch?v=cLGRqNI-nJU) / [Docs](https://prompttools.readthedocs.io/en/latest/))
+* [HegelAI](https://github.com/hegelai/prompttools)'s PromptTools: Open-source tools for evaluation and experimentation with prompts, models, and vector databases. ([Demo](https://www.youtube.com/watch?v=cLGRqNI-nJU) / [Docs](https://prompttools.readthedocs.io/en/latest/))
 
 ## Vector DB & Embeddings
 * [Supabase](https://supabase.com/) Vector: Open-source Vector Toolkit for Postgres. Use the Supabase client libraries to store, index, and query your vector embeddings at scale. ([Demo](https://supabase.com/vector) / [Docs](https://supabase.com/docs/guides/ai/quickstarts/hello-world))
@@ -75,7 +75,7 @@ This is a **curated collection** of **AI developer tools** built by **YC compani
 
 ## Prompt Management & Testing
 * [Parea](https://www.parea.ai): Improve and monitor the performance of your LLM apps through rigorous testing and version control.
-* [HegalAI](https://github.com/hegelai/prompttools)'s PromptTools: Open-source tools for evaluation and experimentation with prompts, models, and vector databases. ([Demo](https://www.youtube.com/watch?v=cLGRqNI-nJU) / [Docs](https://prompttools.readthedocs.io/en/latest/))
+* [HegelAI](https://github.com/hegelai/prompttools)'s PromptTools: Open-source tools for evaluation and experimentation with prompts, models, and vector databases. ([Demo](https://www.youtube.com/watch?v=cLGRqNI-nJU) / [Docs](https://prompttools.readthedocs.io/en/latest/))
 * [Traceloop](https://traceloop.com): Deploy with confidence. Automatically evaluate and monitor changes to models, prompts, and LLM architectures.
 * [Query Vary](https://queryvary.com): Test suite for LLMs. ([Demo](https://calendar.app.google/6oxEvZA2k4kK6dBa8) / [Docs](https://docs.queryvary.com/))
 * [Humanloop](https://humanloop.com): Humanloop is like datadog for LLMs. They give you the tools you need to evaluate LLM apps and then take action to improve them.
