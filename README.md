@@ -52,7 +52,7 @@ This is a **curated collection** of **AI developer tools** built by **YC compani
 
 
 ## LLM Serving & Fine-Tuning
-* [OpenAI](https://openai.com): Needs no introduction ([Demo](https://github.com/openai/openai-cookbook) / [Docs](https://platform.openai.com/docs/introduction/overview))
+* [OpenAI](https://openai.com): Needs no introduction. ([Demo](https://github.com/openai/openai-cookbook) / [Docs](https://platform.openai.com/docs/introduction/overview))
 * [BerriAI](https://github.com/BerriAI/litellm): A simple & light package to call OpenAI, Azure, Cohere, Anthropic API Endpoints.
 * [Anarchy](https://anarchy.ai): LLM infrastructure for developers. Use Anarchy to run open-source models efficiently and augmented with capabilities.
 * [Ivy](https://unify.ai/): Accelerate Your AI With One Line of Code. ([Demo](https://unify.ai/demos) / [Docs](https://unify.ai/docs/ivy/))
