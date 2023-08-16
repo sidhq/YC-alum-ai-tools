@@ -8,6 +8,7 @@
 This is a **curated collection** of **AI developer tools** built by **YC companies**. <br> We're aiming to serve as a reliable **starting point** for **LLM/ML developers**.
 
 ## Overview
+- 🔭 [Analytics & Monitoring](#analytics--monitoring)
 - 💾 [ Vector DB & Embeddings](#vector-db--embeddings)
 - 🎯 [Data Integrations & Retrieval](#data-integrations--retrieval)
 - 🚧 [Infrastructure](#infrastructure)
@@ -17,8 +18,20 @@ This is a **curated collection** of **AI developer tools** built by **YC compani
 - 💬 [Prompt Management & Testing](#prompt-management--testing)
 - 🥁 [Orchestration](#orchestration)
 - 🔈 [Audio](#audio)
-- 🔭 [Analytics & Monitoring](#analytics--monitoring)
 - 🤖 [Making Development Easier](#making-development-easier)
+
+## Analytics & Monitoring
+* [Humanloop](https://humanloop.com): Humanloop is like datadog for LLMs. They give you the tools you need to evaluate LLM apps and then take action to improve them.
+* [Helicone](https://helicone.ai): The easiest way to capture data from your LLMs (Open Source).
+* [Langfuse](https://langfuse.com): Open-source analytics for LLM applications. ([Demo](https://langfuse.com/blog/showcase-llm-chatbot) / [Docs](https://langfuse.com/docs))
+* [UpTrain](https://github.com/uptrain-ai/uptrain): Open-source toolkit to evaluate and monitor LLM applications on aspects like hallucinations, bias, tonality, correctness, etc.
+* [Structured](https://www.structuredlabs.io/): LLM tool transforming complex system log data into easily understandable insights. ([Demo](https://www.youtube.com/watch?v=aEAOH4tGHyE))
+* [Traceloop](https://traceloop.com): Deploy with confidence. Automatically evaluate and monitor changes to models, prompts, and LLM architectures.
+* [BerriAI](https://github.com/BerriAI/litellm): A simple & light package to call OpenAI, Azure, Cohere, and Anthropic API Endpoints.
+* [Parea](https://www.parea.ai): Improve and monitor the performance of your LLM apps through rigorous testing and version control.
+* [Axilla](https://axilla.io): Open-source AI framework for TypeScript that covers the whole lifecycle: document ingestion & retrieval, continuous evaluation, serving, and monitoring. ([Docs](https://github.com/axilla-io/ax))
+* [DAGWorks](https://www.dagworks.io/): The observability and monitoring solution for [Hamilton](https://github.com/DAGWorks-Inc/hamilton). Get lineage, a catalog, and observability on top of Hamilton with a one-line code change.
+* [HegalAI](https://github.com/hegelai/prompttools)'s PromptTools: Open-source tools for evaluation and experimentation with prompts, models, and vector databases. ([Demo](https://www.youtube.com/watch?v=cLGRqNI-nJU) / [Docs](https://prompttools.readthedocs.io/en/latest/))
 
 ## Vector DB & Embeddings
 * [Supabase](https://supabase.com/) Vector: Open-source Vector Toolkit for Postgres. Use the Supabase client libraries to store, index, and query your vector embeddings at scale. ([Demo](https://supabase.com/vector) / [Docs](https://supabase.com/docs/guides/ai/quickstarts/hello-world))
@@ -72,20 +85,7 @@ This is a **curated collection** of **AI developer tools** built by **YC compani
   
 ## Audio
 * [AssemblyAI](https://www.assemblyai.com/): AI models for speech recognition, automatic transcription, speech summarization, and more through our secure and scalable API. ([Demo](https://www.youtube.com/watch?v=rG_VVYtZTpU) / [Docs](https://www.assemblyai.com/docs))
-  
-## Analytics & Monitoring
-* [Humanloop](https://humanloop.com): Humanloop is like datadog for LLMs. They give you the tools you need to evaluate LLM apps and then take action to improve them.
-* [Helicone](https://helicone.ai): The easiest way to capture data from your LLMs (Open Source).
-* [Langfuse](https://langfuse.com): Open-source analytics for LLM applications. ([Demo](https://langfuse.com/blog/showcase-llm-chatbot) / [Docs](https://langfuse.com/docs))
-* [UpTrain](https://github.com/uptrain-ai/uptrain): Open-source toolkit to evaluate and monitor LLM applications on aspects like hallucinations, bias, tonality, correctness, etc.
-* [Structured](https://www.structuredlabs.io/): LLM tool transforming complex system log data into easily understandable insights. ([Demo](https://www.youtube.com/watch?v=aEAOH4tGHyE))
-* [Traceloop](https://traceloop.com): Deploy with confidence. Automatically evaluate and monitor changes to models, prompts, and LLM architectures.
-* [BerriAI](https://github.com/BerriAI/litellm): A simple & light package to call OpenAI, Azure, Cohere, and Anthropic API Endpoints.
-* [Parea](https://www.parea.ai): Improve and monitor the performance of your LLM apps through rigorous testing and version control.
-* [Axilla](https://axilla.io): Open-source AI framework for TypeScript that covers the whole lifecycle: document ingestion & retrieval, continuous evaluation, serving, and monitoring. ([Docs](https://github.com/axilla-io/ax))
-* [DAGWorks](https://www.dagworks.io/): The observability and monitoring solution for [Hamilton](https://github.com/DAGWorks-Inc/hamilton). Get lineage, a catalog, and observability on top of Hamilton with a one-line code change.
-* [HegalAI](https://github.com/hegelai/prompttools)'s PromptTools: Open-source tools for evaluation and experimentation with prompts, models, and vector databases. ([Demo](https://www.youtube.com/watch?v=cLGRqNI-nJU) / [Docs](https://prompttools.readthedocs.io/en/latest/))
-  
+ 
 ## Making Development Easier
 * [Sweep AI](https://sweep.dev/): AI-powered junior dev that turns bug reports & feature requests into code changes. Developers report bugs like "the payment link on my landing page is broken" and Sweep writes a code to fix it. ([Demo](https://youtu.be/2cB6nSpNuoo) / [Docs](https://docs.sweep.dev/))
 * [Continue](http://github.com/continuedev/continue): the open-source autopilot for software development — a VS Code extension that brings the power of ChatGPT to your IDE. ([Demo](https://youtu.be/3Ocrc-WX4iQ) / [Docs](http://continue.dev/docs))
