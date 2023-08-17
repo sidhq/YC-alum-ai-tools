@@ -22,7 +22,7 @@ This is a **curated collection** of **AI developer tools** built by **YC compani
 ## Analytics & Monitoring
 * [Humanloop](https://humanloop.com): Humanloop is like datadog for LLMs. They give you the tools you need to evaluate LLM apps and then take action to improve them.
 * [Helicone](https://helicone.ai): The easiest way to capture data from your LLMs (Open Source).
-* [Langfuse](https://langfuse.com): Open-source analytics for LLM applications. ([Demo](https://langfuse.com/blog/showcase-llm-chatbot) / [Docs](https://langfuse.com/docs))
+* [Langfuse](https://langfuse.com): Open-source analytics for LLM applications. ([Demo](https://langfuse.com/docs/demo) / [Docs](https://langfuse.com/docs))
 * [UpTrain](https://github.com/uptrain-ai/uptrain): Open-source toolkit to evaluate and monitor LLM applications on aspects like hallucinations, bias, tonality, correctness, etc. ([Demo](https://demo.uptrain.ai/evals_demo/) / [Docs](https://docs.uptrain.ai/getting-started/introduction))
 * [Structured](https://www.structuredlabs.io/): LLM tool transforming complex system log data into easily understandable insights. ([Demo](https://www.youtube.com/watch?v=aEAOH4tGHyE))
 * [Traceloop](https://traceloop.com): Deploy with confidence. Automatically evaluate and monitor changes to models, prompts, and LLM architectures.
