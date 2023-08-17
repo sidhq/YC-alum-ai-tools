@@ -67,7 +67,6 @@ This is a **curated collection** of **AI developer tools** built by **YC compani
 * [pyq AI](https://www.pyqai.com/): Easy way for developers to train and deploy task-specific AI models in the cloud. Pyq does so by providing easy-to-use software that takes in your datasets and task as inputs, and outputs a custom AI model.
 * [DAGWorks](https://github.com/dagworks-inc/hamilton/)' Hamilton: Open-source micro-orchestration framework for describing data flows. Companies use it for modeling data and feature engineering pipelines, prompt engineering, and LLM application workflows. ([Demo](https://github.com/DAGWorks-Inc/hamilton/tree/main/examples))
 * [Query Vary](https://queryvary.com/): Test suite for LLMs. ([Demo](https://calendar.app.google/6oxEvZA2k4kK6dBa8) / [Docs](https://docs.queryvary.com/))
-* [UpTrain](https://github.com/uptrain-ai/uptrain): Open-source toolkit to prompt-test LLM applications by evaluating them on aspects like hallucinations, bias, tonality, correctness, etc. ([Demo](https://github.com/uptrain-ai/uptrain#experimentation) / [Docs](https://docs.uptrain.ai/getting-started/introduction))
 
 ## Security
 * [Automorphic](https://github.com/automorphic-ai/aegis)'s Aegis: Self-hardening firewall for large language models.
@@ -79,6 +78,7 @@ This is a **curated collection** of **AI developer tools** built by **YC compani
 * [Traceloop](https://traceloop.com): Deploy with confidence. Automatically evaluate and monitor changes to models, prompts, and LLM architectures.
 * [Query Vary](https://queryvary.com): Test suite for LLMs. ([Demo](https://calendar.app.google/6oxEvZA2k4kK6dBa8) / [Docs](https://docs.queryvary.com/))
 * [Humanloop](https://humanloop.com): Humanloop is like datadog for LLMs. They give you the tools you need to evaluate LLM apps and then take action to improve them.
+* [UpTrain](https://github.com/uptrain-ai/uptrain): Open-source toolkit to prompt-test LLM applications by evaluating them on aspects like hallucinations, bias, tonality, correctness, etc. ([Demo](https://github.com/uptrain-ai/uptrain#experimentation) / [Docs](https://docs.uptrain.ai/getting-started/introduction))
 
 ## Orchestration
 * [Sematic](https://sematic.dev/): The open-source orchestrator loved by ML teams. It enables end-to-end pipelines to reduce model turnaround time by 80%. ([Demo](https://www.youtube.com/watch?v=pAT599sxGos) / [Docs](https://docs.sematic.dev/))
